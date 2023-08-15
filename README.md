@@ -4,6 +4,9 @@ Create a database for store username & password without SQL or anyother database
 
 <li>Validation</li>
 <li>Each username & password redirect to each pages</li>
+<li>Wrong information alert!</li>
+<li>Can add nlimited username & password list</li>
+<li>No mistakes</li>
 <br>
 Check it here: https://hasnisubhan.github.io/Java-login-database/
 <br>
