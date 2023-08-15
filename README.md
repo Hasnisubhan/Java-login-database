@@ -8,7 +8,7 @@ Create a database for store username & password without SQL or anyother database
 <li>Can add nlimited username & password list</li>
 <li>No mistakes</li>
 <br>
-Check it here: <a href="https://hasnisubhan.github.io/Java-login-database/" target="_blank">https://hasnisubhan.github.io/Java-login-database/</a>
+Check it here: https://hasnisubhan.github.io/Java-login-database/
 <br>
 Redirect page 1---> username: <b>hasni</b> | password: <b>123</b><br>
 Redirect page 2---> username: <b>subhan</b> | password: <b>3030</b>
