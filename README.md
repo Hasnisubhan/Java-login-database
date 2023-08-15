@@ -13,4 +13,4 @@ Check it here: https://hasnisubhan.github.io/Java-login-database/
 Redirect page 1---> username: <b>hasni</b> | password: <b>123</b><br>
 Redirect page 2---> username: <b>subhan</b> | password: <b>3030</b>
 <br><br>
-SORRY! brother/sisters I couldn't create a sign-up form for generate 
+SORRY! brother/sisters I couldn't create a sign-up form for generate new username & password data inside javascript. If someone can do it please contact me <a href="https://wa.me/+94784582025">Whatsapp</a> or <a href="https://t.me/panthler">Telegram</a>
