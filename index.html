@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+	
+	<!-- CSS file -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Login</title> 
+</head>
+
+<body>
+    <div class="container">
+      	<div class="wrapper">
+        	<div class="title"><span>Login</span></div>
+        	
+        	<form action="#">
+        		<!-- Username field -->
+          		<div class="row">
+            		<i class='bx bx-user'></i>
+            		<input type="username" placeholder="username" id="username" required>
+          		</div>
+				
+				<!-- Password field -->
+          		<div class="row">
+            		<i class='bx bx-key'></i>
+            		<input type="password" placeholder="Password" id="password" required>
+          		</div>
+				
+				<!-- Submit button with js event -->
+          		<div class="row button">
+            		<input type="submit" value="Login" onClick="auth(event)">
+          		</div>
+        	</form>
+
+      	</div>
+    </div>
+</body>
+
+<!-- JS File -->
+<script src="loggers.js"></script>
+</html>
